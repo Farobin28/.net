@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnGDqGPlrJRm1ziCUoFRWZ97FhfVy967/fy/gsH3Rgf0P7ziy3TId7x8jvda3cLRg4rWlWETZySZMpUZUyv+Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Коля\\Desktop\\Бодя\\УНИВЕР\\УЧЕБА 3 КУРС 1СМ\\vntu-dotnet-23\\2-4LAB\\Oskar2301.TaskPlanner.Domain.Logic\\Oskar2301.TaskPlanner.Domain.Logic\\Oskar2301.TaskPlanner.Domain.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Коля\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Коля\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Коля\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

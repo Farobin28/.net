@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Oskar2301.TaskPlanner.Domain.Models">
+      <HintPath>..\..\Oskar2301.TaskPlanner.Domain.Models\Oskar2301.TaskPlanner.Domain.Models\obj\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Oskar230173.TaskPlanner.DataAccess">
+      <HintPath>..\..\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

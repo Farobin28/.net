@@ -1,0 +1,34 @@
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.deps.json
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.pdb
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\Oskar230173.TaskPlanner.DataAccess.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.pdb
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\Oskar230173.TaskPlanner.DataAccess.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Logic.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.dll
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Logic.pdb
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.pdb
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Коля\Desktop\Бодя\УНИВЕР\УЧЕБА 3 КУРС 1СМ\vntu-dotnet-23\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.CopyComplete
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.deps.json
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.dll
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.pdb
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Logic.dll
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.dll
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Logic.pdb
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.pdb
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.AssemblyInfo.cs
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.csproj.CopyComplete
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.dll
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\Oskar230173.TaskPlanner.DataAccess.dll
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\Oskar230173.TaskPlanner.DataAccess.pdb
+D:\Студент воркс\3 курс (5 семестр)\dotnet\2-4LAB\Oskar230173.TaskPlanner.DataAccess\Oskar230173.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\Oskar230173.TaskPlanner.DataAccess.dll

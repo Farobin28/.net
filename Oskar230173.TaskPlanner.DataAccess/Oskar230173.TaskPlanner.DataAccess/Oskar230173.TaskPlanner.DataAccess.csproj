@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Oskar2301.TaskPlanner.Domain.Logic">
+      <HintPath>..\..\Oskar2301.TaskPlanner.Domain.Logic\Oskar2301.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Logic.dll</HintPath>
+    </Reference>
+    <Reference Include="Oskar2301.TaskPlanner.Domain.Models">
+      <HintPath>..\..\Oskar2301.TaskPlanner.Domain.Models\Oskar2301.TaskPlanner.Domain.Models\bin\Debug\net6.0\Oskar2301.TaskPlanner.Domain.Models.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

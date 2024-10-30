@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oskar2301.TaskPlanner/1.0.0": {
+        "dependencies": {
+          "Oskar2301.TaskPlanner.Domain.Logic": "1.0.0.0",
+          "Oskar2301.TaskPlanner.Domain.Models": "1.0.0.0"
+        },
+        "runtime": {
+          "Oskar2301.TaskPlanner.dll": {}
+        }
+      },
+      "Oskar2301.TaskPlanner.Domain.Logic/1.0.0.0": {
+        "runtime": {
+          "Oskar2301.TaskPlanner.Domain.Logic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Oskar2301.TaskPlanner.Domain.Models/1.0.0.0": {
+        "runtime": {
+          "Oskar2301.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oskar2301.TaskPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oskar2301.TaskPlanner.Domain.Logic/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oskar2301.TaskPlanner.Domain.Models/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
